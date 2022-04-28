@@ -6,12 +6,10 @@
             Copyright © 2015-<?php echo date('Y');?> All Rights Reserved </br>
         </p>
         <p  class="text-white  m-1 p-1 h6">
-            Powered by <a href="https://you2php.github.io/" target="_blank" class="text-white font-italic">YOU2PHP</a>
+           
 			<a href="./embed/upgrade.php" target="_blank" class="text-white ml-2"><?php echo $lang['FOOTER_CUPD']?></a>
 			
-		<p class="text-white  m-1 p-1 h6">
-            Language support by <a href="https://github.com/Gaerisson" target="_blank" class="text-white font-italic">GAERISSON</a>
-				</p>
+		
         </p>
     </footer>
 
